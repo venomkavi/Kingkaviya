@@ -3,7 +3,7 @@
 ----
 
 <div align="center">
-  <img src="https://i.hizliresim.com/mm1NBs.jpg" width="400" height="400">
+  <img src="https://pin.it/6HvF0tG" width="400" height="400">
   <h1>🧟‍♂️king kaviya🧟‍♂️</h1>
 </div>
 <p align="center">
