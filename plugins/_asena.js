@@ -32,8 +32,8 @@ Asena.addCommand({pattern: 'asena ?(.*)', fromMe: true, dontAddCommandList: true
                 } else {
                     HANDLER = '.';
                 }
-                CMD_HELP += '*🛠 ' + Lang.COMMAND + ':* ```' + (match.length >= 3 ? (HANDLER + match[2]) : command.pattern) + (command.desc === '' ? '```\n\n' : '```\n');
-                if (command.desc !== '') CMD_HELP += '*💬 ' + Lang.DESC + ':* ```' + command.desc + (command.usage === '' ? '```\n\n' : '```\n');
+                CMD_HELP += '*🧛‍♂️ ' + Lang.COMMAND + ':* ```' + (match.length >= 3 ? (HANDLER + match[2]) : command.pattern) + (command.desc === '' ? '```\n\n' : '```\n');
+                if (command.desc !== '') CMD_HELP += '*😈 ' + Lang.DESC + ':* ```' + command.desc + (command.usage === '' ? '```\n\n' : '```\n');
                 if (command.usage !== '') CMD_HELP += '*⌨️ ' + Lang.EXAMPLE + ':* ```' + command.usage + '```\n\n';
             }
         );
@@ -60,8 +60,8 @@ Asena.addCommand({pattern: 'asena ?(.*)', fromMe: true, dontAddCommandList: true
                     } else {
                         HANDLER = '.';
                     }
-                    CMD_HELP += '*🛠 ' + Lang.COMMAND + ':* ```' + (cmatch.length >= 3 ? (HANDLER + cmatch[2]) : command.pattern) + (command.desc === '' ? '```\n\n' : '```\n');
-                    if (command.desc !== '') CMD_HELP += '*💬 ' + Lang.DESC + ':* ```' + command.desc + (command.usage === '' ? '```\n\n' : '```\n');
+                    CMD_HELP += '*🧛‍♂️ ' + Lang.COMMAND + ':* ```' + (cmatch.length >= 3 ? (HANDLER + cmatch[2]) : command.pattern) + (command.desc === '' ? '```\n\n' : '```\n');
+                    if (command.desc !== '') CMD_HELP += '*😈' + Lang.DESC + ':* ```' + command.desc + (command.usage === '' ? '```\n\n' : '```\n');
                     if (command.usage !== '') CMD_HELP += '*⌨️ ' + Lang.EXAMPLE + ':* ```' + command.usage + '```\n\n';    
                 }
             }
