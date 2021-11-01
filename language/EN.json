@@ -1,17 +1,17 @@
 {
     "__ASENAJSON__": true,
-    "LANGUAGE": "English",
-    "LANGCODE": "en",
+    "LANGUAGE": "Sinhala",
+    "LANGCODE": "si",
     "AUTHOR": "AsenaDev",
     "STRINGS": {
-        "_asena": {
+        "_devil": {
             "COMMAND": "Command",
             "DESC": "Description",
             "EXAMPLE": "Example",
-            "NOT_FOUND": "*I couldn't find a command like this*"
+            "NOT_FOUND": "*එවැනි ප්ලගිනයක් හමු නොවුනි*"
         },
         "_plugin": {
-            "INSTALL_DESC": "Install external plugins.",
+            "INSTALL_DESC": "*බාහිර ප්ලගින ඇතුලත් කරන්න.",
             "NEED_URL": "Please enter a URL! Example:",
             "INVALID_URL": "```Please enter a valid url!```",
             "INVALID_PLUGIN": "*❌ Your plugin is invalid!*\n*Error:*",
