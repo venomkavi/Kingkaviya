@@ -110,15 +110,15 @@
             "GOODBYE_DELETED": "*✅ Goodbye message has been deleted successfully!*",
             "GOODBYE_SETTED": "*✅ Goodbye message has been setted successfully!*"
         },
-        "lydia": {
-            "ADDLYDIA_DESC": "Activates Lydia (AI) for the user.",
+        "venom": {
+            "ADDVENOM_DESC": "Activates Venom (AI) for the user.",
             "NEED_REPLY": "```Please respond to a user's message!```",
             "COFFEEHOUSE": "```You haven't defined the Coffehouse API Key! ```",
-            "ENABLED_LYDIA": "```Lydia has been activated for this user!```",
-            "RMLYDIA_DESC": "Makes Lydia disabled for the user.",
+            "ENABLED_LYDIA": "```Venom has been activated for this user!```",
+            "RMLYDIA_DESC": "Makes Venom disabled for the user.",
             "ALREADY_EMPTY": "```Your user list is already empty!```",
             "NOT_ADDED": "```You haven't added this user already!```",
-            "DISABLED": "```Lydia has been disabled for this user!```"
+            "DISABLED": "```Venom has been disabled for this user!```"
         },
         "memes": {
             "MEMES_DESC": "Photo memes you replied to.",
@@ -134,7 +134,7 @@
         },
         "profile": {
             "KICKME_DESC": "It kicks you from the group you are using it in.",
-            "KICKME": "```Bye bye! I am going 🤠```",
+            "KICKME": "```Bye bye! I am going🧟‍♂️😤```",
             "PP_DESC": "Makes the profile photo what photo you reply.",
             "NEED_PHOTO": "*Give me a photo!*",
             "PPING": "```Setting profile photo...```",
